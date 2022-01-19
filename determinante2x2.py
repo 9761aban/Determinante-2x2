@@ -1,3 +1,5 @@
+#Una función humilde para obtener el determinante de una matriz de 2x2.
+
 import numpy as np
 
 def det2x2 (A):
